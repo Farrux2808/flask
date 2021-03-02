@@ -1,6 +1,15 @@
 from flask import Flask, request
 
 app = Flask(__name__)
+
+@app.route('/api')
+def api():
+    r = request.args
+    print(r)
+    return {'sum' : int(r.get('a',0)) + int(r.get('b',0))}
+
+
+
 @app.route('/index')
 def home():
     path = request.path

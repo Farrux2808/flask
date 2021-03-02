@@ -1,0 +1,137 @@
+{
+    "_default": {},
+    "products": {
+        "1": {
+            "ID": "1",
+            "category": "smartphone",
+            "company": "Samsung"
+        },
+        "2": {
+            "ID": "2",
+            "category": "smartphone",
+            "company": "Apple"
+        },
+        "3": {
+            "ID": "3",
+            "category": "smartphone",
+            "company": "Huawei"
+        },
+        "4": {
+            "ID": "4",
+            "category": "smartphone",
+            "company": "Oppo"
+        },
+        "5": {
+            "ID": "5",
+            "category": "smartphone",
+            "company": "Xiaomi"
+        }
+    },
+    "specifications": {
+        "1": {
+            "ID": "1",
+            "model": "Galaxy S21 Ultra 5G",
+            "company": "Samsung",
+            "price": "500",
+            "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-ultra-5g-3.jpg"
+        },
+        "2": {
+            "ID": "2",
+            "model": "Galaxy S20 5G",
+            "company": "Samsung",
+            "price": "494",
+            "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-ultra-5g-3.jpg"
+        },
+        "3": {
+            "ID": "3",
+            "model": "Note20 Ultra 5G",
+            "company": "Samsung",
+            "price": "549",
+            "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-ultra-5g-3.jpg"
+        },
+        "4": {
+            "ID": "4",
+            "model": "Galaxy S10+",
+            "company": "Samsung",
+            "price": "1299",
+            "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-ultra-5g-3.jpg"
+        },
+        "5": {
+            "ID": "5",
+            "model": "iPhone 12",
+            "company": "Apple",
+            "price": "699",
+            "image": "https://www.costco.com.au/medias/sys_master/images/h3c/he3/46498872098846.jpg"
+        },
+        "6": {
+            "ID": "6",
+            "model": "iPhone SE",
+            "company": "Apple",
+            "price": "399",
+            "image": "https://www.costco.com.au/medias/sys_master/images/h3c/he3/46498872098846.jpg"
+        },
+        "7": {
+            "ID": "7",
+            "model": "iPhone 11",
+            "company": "Apple",
+            "price": "599",
+            "image": "https://www.costco.com.au/medias/sys_master/images/h3c/he3/46498872098846.jpg"
+        },
+        "8": {
+            "ID": "8",
+            "model": "Huawei P30 Pro",
+            "company": "Huawei",
+            "price": "624",
+            "image": "https://www.notebookcheck.net/uploads/tx_nbc2/4_zu_3_teaser_Huawei_P30_Pro.jpg"
+        },
+        "9": {
+            "ID": "9",
+            "model": "Huawei Mate 20 Pro",
+            "company": "Huawei",
+            "price": "499",
+            "image": "https://www.notebookcheck.net/uploads/tx_nbc2/4_zu_3_teaser_Huawei_P30_Pro.jpg"
+        },
+        "10": {
+            "ID": "10",
+            "model": "Oppo Find X2 Pro",
+            "company": "Oppo",
+            "price": "997",
+            "image": "https://assorted.downloads.oppo.com/static/assets/products/findx2_pro_green/images/parameter/[pro]/[colorful]/[pro][en]green_375-3753101dabf990313a39a54dc1a6a4fb.png"
+        },
+        "11": {
+            "ID": "11",
+            "model": "Oppo Find X2",
+            "company": "Oppo",
+            "price": "800",
+            "image": "https://assorted.downloads.oppo.com/static/assets/products/findx2_pro_green/images/parameter/[pro]/[colorful]/[pro][en]green_375-3753101dabf990313a39a54dc1a6a4fb.png"
+        },
+        "12": {
+            "ID": "12",
+            "model": "Oppo Reno 4 Pro 5G",
+            "company": "Oppo",
+            "price": "739",
+            "image": "https://assorted.downloads.oppo.com/static/assets/products/findx2_pro_green/images/parameter/[pro]/[colorful]/[pro][en]green_375-3753101dabf990313a39a54dc1a6a4fb.png"
+        },
+        "13": {
+            "ID": "13",
+            "model": "Xiaomi Black Shark 3",
+            "company": "Xiaomi",
+            "price": "705",
+            "image": "https://gloimg.gbtcdn.com/images/pdm-product-pic/Electronic/2020/05/07/source-img/20200507114522_5eb384520b969.jpg_500x500.jpg"
+        },
+        "14": {
+            "ID": "14",
+            "model": "Xiaomi Redmi Note 9",
+            "company": "Xiaomi",
+            "price": "190",
+            "image": "https://gloimg.gbtcdn.com/images/pdm-product-pic/Electronic/2020/05/07/source-img/20200507114522_5eb384520b969.jpg_500x500.jpg"
+        },
+        "15": {
+            "ID": "15",
+            "model": "Xiaomi Redmi Note 9S",
+            "company": "Xiaomi",
+            "price": "236",
+            "image": "https://gloimg.gbtcdn.com/images/pdm-product-pic/Electronic/2020/05/07/source-img/20200507114522_5eb384520b969.jpg_500x500.jpg"
+        }
+    }
+}
